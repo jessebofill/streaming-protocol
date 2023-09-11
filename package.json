@@ -1,0 +1,24 @@
+{
+  "name": "streaming-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessebofill/streaming-protocol.git"
+  },
+  "keywords": [
+    "streaming",
+    "protocol",
+    "video"
+  ],
+  "author": "Gleb Berkez, Jesse Bofill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessebofill/streaming-protocol/issues"
+  },
+  "homepage": "https://github.com/jessebofill/streaming-protocol#readme"
+}
