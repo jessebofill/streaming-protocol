@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/jessebofill/streaming-protocol/issues"
   },
-  "homepage": "https://github.com/jessebofill/streaming-protocol#readme"
+  "homepage": "https://github.com/jessebofill/streaming-protocol#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
